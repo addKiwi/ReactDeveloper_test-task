@@ -1,9 +1,12 @@
 import React from 'react';
 import './App.css';
 
-function App() {
+import { BarChart } from './components/BarChart';
+
+const App: React.FC = () => {
   return (
     <div className="App">
+      <BarChart />
     </div>
   );
 }
