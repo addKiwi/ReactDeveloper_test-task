@@ -4,7 +4,7 @@
 
 Simple project with charts.
 Ease to add, change or remove new data.
-There is an opportunity to see information in different types of views
+There is an opportunity to see information in different types
 
 ## Librares
 - React
